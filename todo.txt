@@ -1,0 +1,14 @@
+supplier page
+adding conditional roututing
+adding redux toolkit
+tabe correction
+
+
+integrating monitor with an /monitor/id route and redirecting to it
+monitor should be only accesed by admin
+
+for owner their should be a button in header to create an item and entity
+
+
+All entity to see homepage listing all items they are listed in and is the staus is 
+for them can do steps.
